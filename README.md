@@ -1,6 +1,6 @@
 # onboarding_petcare
 
-A new Flutter project.
+Days 6/30.
 
 ## Getting Started
 
